@@ -67,7 +67,7 @@ This script maintains server performance and ensures a fair experience for all p
 
 
 
-To support my Word   
+To support my job's, Thanks you   
 ![qrcode](https://github.com/user-attachments/assets/981fb84c-47e9-4979-a50d-a9b8aadb0d53)
 
 
