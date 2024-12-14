@@ -65,3 +65,10 @@ Goal:
 
 This script maintains server performance and ensures a fair experience for all players by managing those with consistently high ping, while providing flexibility for special cases through a whitelist.
 
+
+
+To support my Word   
+![qrcode](https://github.com/user-attachments/assets/981fb84c-47e9-4979-a50d-a9b8aadb0d53)
+
+
+
