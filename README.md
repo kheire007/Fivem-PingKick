@@ -1,4 +1,5 @@
-# Fivem-advance PingKick
+# Fivem-advance PingKick standalone
+
 
 
 Script Summary: High Ping Management System
